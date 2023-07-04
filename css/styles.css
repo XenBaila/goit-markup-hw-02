@@ -1,5 +1,7 @@
 <!--Custom styles-->
+:root {
+    --title: #FFFFFF;
+}
 .body {
-    color:black;
-    background-color: white;
+   background-color: var(--title);
 }
