@@ -5,3 +5,10 @@
 .body {
    background-color: var(--title);
 }
+.section-title {
+    color: #3f51b5;
+}
+
+.section-text {
+    color: #ff5722;
+}
